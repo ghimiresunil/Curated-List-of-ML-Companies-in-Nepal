@@ -22,4 +22,6 @@ If you cannot provide a valid companines your PR will not be accepted.
 
 Name | Location | Contact | Wesbite
 ------------ | ------- | ------- | ----------------
-[A.B.G.S. Group Pvt. Ltd.](https://abgsgroup.com/) | Kathmandu | <a href="https://www.linkedin.com/company/a-b-g-s--group-pvt--ltd-/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> | https://abgsgroup.com/
+[A.B.G.S. Group Pvt. Ltd.](https://abgsgroup.com/) | Kathmandu | <a href="https://www.linkedin.com/company/a-b-g-s--group-pvt--ltd-/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Agile IT Solutions Pvt. Ltd](http://www.agileitsolutions.net/) | Anamnagar, Kathmandu | <a href="https://www.linkedin.com/company/agile-it-solutions-pvt-ltd/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+[Asmi](https://asmi.co/) | Bharatpur, Chitwan | <a href="https://www.linkedin.com/company/asmicorp/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
