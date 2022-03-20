@@ -27,5 +27,6 @@ Name | Location | Contact
 [Asmi](https://asmi.co/) | Bharatpur, Chitwan | <a href="https://www.linkedin.com/company/asmicorp/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [BerryBytes](https://www.berrybytes.com/) | Kathmandu | <a href="https://www.facebook.com/berrybytestech/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" width="20"/></a> 
 [Bottle Technology Pvt. Ltd](https://bottle.com.np) | Kathmandu | <a href="https://www.linkedin.com/company/bottle-technology/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+[CraftData Labs](http://www.craftdatalabs.com/) | Baluwatar, Kathmandu | <a href="https://www.linkedin.com/company/craftdata-labs/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 
 ## Soon will be update with Companies started with Other Word
