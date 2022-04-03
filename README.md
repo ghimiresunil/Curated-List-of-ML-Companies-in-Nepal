@@ -33,5 +33,8 @@ Name | Location | Contact
 [EKbana Solutions Pte. Ltd](http://www.ekbana.com) | Lalitpur | <a href="https://www.linkedin.com/company/ekbana-solutions-pte--ltd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [ExtensoData](http://www.extensodata.com/) | Lalitpur | <a href="https://www.linkedin.com/company/extensodata/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Fusemachines](https://fusemachines.com.np/) | Aarya Tara Business Tower, Kamaladi | <a href="https://www.linkedin.com/company/fusemachines/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[iBriz.ai](https://ibriz.ai/) | Kathmandu | <a href="https://www.linkedin.com/company/ibriz-ai/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[IDenTV](http://www.identv.com/) | San Francisco (Remote) | <a href="https://www.linkedin.com/company/identv/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Infodevelopers Pvt. Ltd.](https://www.infodev.com.np/) | Sanepa -2, Lalitpur | <a href="https://www.linkedin.com/company/infodevelopers-pvt-ltd-/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 
 ## Soon will be update with Companies started with Other Word
