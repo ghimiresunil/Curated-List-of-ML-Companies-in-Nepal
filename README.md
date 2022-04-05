@@ -38,5 +38,6 @@ Name | Location | Contact
 [Infodevelopers Pvt. Ltd.](https://www.infodev.com.np/) | Sanepa -2, Lalitpur | <a href="https://www.linkedin.com/company/infodevelopers-pvt-ltd-/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Inspiring Lab](https://inspiringlab.com.np) | Kupondole | <a href="https://www.linkedin.com/company/inspiring-studios/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Integrated ICT](http://integratedict.com.np/website/) | Jwagal, Lalitpur | <a href="https://www.facebook.com/integratedictnepal/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" width="20"/></a> 
+[Kharpann](https://kharpann.com/) | Balkhu | <a href="https://www.linkedin.com/company/kharpann/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 
 ## Soon will be update with Companies started with Other Word
