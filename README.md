@@ -40,5 +40,7 @@ Name | Location | Contact
 [Integrated ICT](http://integratedict.com.np/website/) | Jwagal, Lalitpur | <a href="https://www.facebook.com/integratedictnepal/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" width="20"/></a> 
 [Kharpann](https://kharpann.com/) | Balkhu | <a href="https://www.linkedin.com/company/kharpann/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Leapfrog Technology](https://www.lftechnology.com) | Dillibazar | <a href="https://www.linkedin.com/company/lftechnology" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+[Moonlit Solutions](https://www.moonlit.solutions) | Kathmandu | <a href="https://www.linkedin.com/company/moonlit-solutions/about" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[MPercept Technology](http://mpercept.com/) | Kupondole, Kathmandu | <a href="https://www.linkedin.com/company/mpercept-technology/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 
 ## Soon will be update with Companies started with Other Word
