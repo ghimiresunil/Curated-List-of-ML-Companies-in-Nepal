@@ -44,5 +44,7 @@ Name | Location | Contact
 [MPercept Technology](http://mpercept.com/) | Kupondole, Kathmandu | <a href="https://www.linkedin.com/company/mpercept-technology/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Numeric Mind](https://numericmind.com/) | Gairidhara,, Kathmandu | <a href="https://www.linkedin.com/company/numericmind/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Naamche](https://www.naamche.com/) | Pipalbot, Mahakavi Marg, Kathmandu | <a href="https://www.linkedin.com/company/naamche/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Oval Analytics](http://ovalanalytics.com/) | Kathmandu | <a href="https://www.linkedin.com/company/oval-analytics/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+
 
 ## Soon will be update with Companies started with Other Word
