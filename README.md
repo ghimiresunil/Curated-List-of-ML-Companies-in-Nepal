@@ -46,5 +46,6 @@ Name | Location | Contact
 [Naamche](https://www.naamche.com/) | Pipalbot, Mahakavi Marg, Kathmandu | <a href="https://www.linkedin.com/company/naamche/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Oval Analytics](http://ovalanalytics.com/) | Kathmandu | <a href="https://www.linkedin.com/company/oval-analytics/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Paaila Technology](https://paailatechnology.com) | Lalitpur | <a href="https://www.linkedin.com/company/paaila-technology/about" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Paracosma Inc](https://www.paracosma.com/) | Lalitpur | <a href="https://www.linkedin.com/company/paracosma/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 
 ## Soon will be update with Companies started with Other Word
