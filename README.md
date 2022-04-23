@@ -47,5 +47,6 @@ Name | Location | Contact
 [Oval Analytics](http://ovalanalytics.com/) | Kathmandu | <a href="https://www.linkedin.com/company/oval-analytics/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Paaila Technology](https://paailatechnology.com) | Lalitpur | <a href="https://www.linkedin.com/company/paaila-technology/about" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Paracosma Inc](https://www.paracosma.com/) | Lalitpur | <a href="https://www.linkedin.com/company/paracosma/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+[Robust IT Concepts Pvt Ltd](http://robustitconcepts.com) | Nakkhu, Lalitpur | <a href="https://www.linkedin.com/company/robust-it-concepts-pvt-ltd/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 
 ## Soon will be update with Companies started with Other Word
