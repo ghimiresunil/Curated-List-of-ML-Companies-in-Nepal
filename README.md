@@ -49,5 +49,6 @@ Name | Location | Contact
 [Paracosma Inc](https://www.paracosma.com/) | Lalitpur | <a href="https://www.linkedin.com/company/paracosma/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Robust IT Concepts Pvt Ltd](http://robustitconcepts.com) | Nakkhu, Lalitpur | <a href="https://www.linkedin.com/company/robust-it-concepts-pvt-ltd/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Rooster Logic Pvt. Ltd](http://roosterlogic.com/) | Gairidhara, Kathmandu | <a href="https://www.linkedin.com/company/rooster-logic-pvt-ltd/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Rosebay Consulting](https://rosebaycorporate.com/) | Baluwatar, Kathmandu | <a href="https://www.linkedin.com/company/rosebay-consulting-pvt-ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 
 ## Soon will be update with Companies started with Other Word
