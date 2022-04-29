@@ -52,5 +52,6 @@ Name | Location | Contact
 [Rosebay Consulting](https://rosebaycorporate.com/) | Baluwatar, Kathmandu | <a href="https://www.linkedin.com/company/rosebay-consulting-pvt-ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [Smart Data Solutions](http://sdata.us) | Bhanimandal, Jawalakhel | <a href="https://www.linkedin.com/company/smart-data-solutions/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
 [SmartMaka](https://www.smartmaka.com/) | Chakupat, Lalitpur | <a href="https://www.facebook.com/smartmaka" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" width="20"/></a>
+[Tekkon Technologies](https://tekkon.com.np/) | Baluwatar, Kathmandu | <a href="https://tekkon.com.np/inkedin.com/company/%20tekkontech" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 
 ## Soon will be update with Companies started with Other Word
