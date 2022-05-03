@@ -54,5 +54,6 @@ Name | Location | Contact
 [SmartMaka](https://www.smartmaka.com/) | Chakupat, Lalitpur | <a href="https://www.facebook.com/smartmaka" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" width="20"/></a>
 [Tekkon Technologies](https://tekkon.com.np/) | Baluwatar, Kathmandu | <a href="https://tekkon.com.np/inkedin.com/company/%20tekkontech" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Treeleaf Technologies](https://treeleaf.ai) | Kathmandu | <a href="https://www.linkedin.com/company/treeleafai/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+[Wiseyak Inc.](http://wiseyak.com/) | Kathmandu | <a href="https://www.linkedin.com/company/wiseyakinc/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 
 ## Soon will be update with Companies started with Other Word
